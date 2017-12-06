@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ..
+
 rm -rf /R-Project-Template
 rm -rf $1
 
