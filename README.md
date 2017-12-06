@@ -1,4 +1,4 @@
-# R-Project-Template
+# R Project Template
 
 Create a directory structure for an R data analysis project
 
